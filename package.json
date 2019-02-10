@@ -45,6 +45,6 @@
     "type": "git",
     "url": "https://github.com/benjamindburke/design-website"
   },
-  "author": "David Burke",
+  "author": "David Burke <benjamindburke@gmail.com> (https://github.com/benjamindburke)",
   "license": "MIT"
 }
